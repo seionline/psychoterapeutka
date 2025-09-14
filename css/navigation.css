@@ -13,6 +13,10 @@
   text-decoration: none;
 }
 
+.page a {
+  color: black;
+}
+
 .navbar a:hover {
   color: var(--secondary-color);
 }

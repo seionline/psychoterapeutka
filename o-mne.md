@@ -5,7 +5,7 @@ description: Venujem prepájaniu supervízie procesovej práce s výtvarnou tvo
 ---
 # O mne
 
-<img class="photo" src="TODO" alt="Jana Sarah Kašáková">
+<!-- <img class="photo" src="TODO" alt="Jana Sarah Kašáková"> -->
 
 Od roku 2007 som zapísaná v Zozname psychoterapeutov Slovenskej psychoterapeutickej spoločnosti.
 
@@ -16,13 +16,13 @@ Od roku 2015 som medzinárodne uznanou diplomovanou psychoterapeutkou a facilit
 
 Po ukončení inžinierskeho štúdia fytotechnického odboru na Agronomickej fakulte, vtedy Vysokej školy poľnohospodárskej v Nitre (1986-1991), som študovala v Bratislave na Katedre psychologických vied Filozofickej fakulty Univerzity Komenského (1991-1996).
 
-## Absolvované semináre:
+## Absolvované semináre
 - neurolingvistického programovania (Hana Stanek – Vesecká),
 - ericksonovskej nedirektívnej hypnózy (dr. Jiří Zíka),
 - somatic experiencing
 - senzoricko-motorická arteterapia (Cornelia Elbrecht)
 
-## Absolvované výcviky:
+## Absolvované výcviky
 - procesorientovanej psychológie (od 1994):
   - V roku 1998 som ukončila dlhodobý česko – slovenský psychoterapeutický výcvik v procesorientovanej psychoterapii (na Slovensku ho viedol medzinárodný tím diplomovaných POP terapeutov: Ivan Verný, Arlène Audergon, Jean – Claude Audergon a Lane Arye).
   - Následne som skúškami zakončila fázu I. medzinárodného štúdia procesovej práce.
@@ -37,7 +37,7 @@ Po ukončení inžinierskeho štúdia fytotechnického odboru na Agronomickej fa
 ukončila nadstavbový česko – slovenský výcvik „Procesová práca v systemických štruktúrach“ pod vedením Ivana Verného, Zlaty Šramovej a Pavla Konečného.
 - V roku 2024 som absolvovala akreditovaný vzdelávací program ďalšieho vzdelávania  Supervízia v pomáhajúcich profesiách (Vlado Hambálek).
 
-## Pracovala som:
+## Pracovala som
 - v Psychiatrickej nemocnici Philipa Pinela v Pezinku na mužskom AT oddelení a na ženskom oddelení,
 - s deťmi a mládežou, s rodičmi aj učiteľmi v Centre výchovnej a psychologickej prevencie (CVPP) pri Pedagogicko – psychologickej poradni (PPP) v Trnave,
 - ako vedúca CVPP pri PPP v Hlohovci, kde som sa tiež podieľala na projekte Univerzum (2005-2007) spolufinancovaného ESF,
@@ -48,27 +48,23 @@ ukončila nadstavbový česko – slovenský výcvik „Procesová práca v sys
 - od 2016 som trénerkou psychoterapeutického a facilitačného vzdelávania v procesovej práci (POP) akreditovaného na Slovensku aj v IAPOP
 - od 2016 som supervízorkou POP.
 
-## Som spoluautorkou:
+## Som spoluautorkou
 - kapitoly o procesorientovanej psychoterapii v učebnice Současné psychoterapie (Vymětal, Roubal a kol., 2011),
 - kapitoly Psychologické poradenstvo v práci s LGBT menšinami v učebnici Kapitoly z poradenskej psychológie (Smitková a kol., 2014),
-- kapitoly Procesorientovaná psychológia v psychologickom poradenstve a psychoterapii v učebnici Poradenská psychológia a jej využitie v praxi
-(Smitková a kol., 2024).
+- kapitoly Procesorientovaná psychológia v psychologickom poradenstve a psychoterapii v učebnici Poradenská psychológia a jej využitie v praxi (Smitková a kol., 2024).
 Okrajovo sa venujem aj prekladateľskej práci, najmä pre potreby inštitútu POPI-Slovensko.
 
 Od roku 2017 som členkou IAPOP. Od roku 2018 som členkou garantského tímu POPI-Slovensko.
 
-V roku 1997 sa začala pre mňa významná história ženských seminárov. Dvadsať rokov som organizovala a zúčastňovala sa na tzv. babincoch pod vedením jednej
-z mojich významných učiteliek Marianne Verný.
+V roku 1997 sa začala pre mňa významná história ženských seminárov. Dvadsať rokov som organizovala a zúčastňovala sa na tzv. babincoch pod vedením jednej z mojich významných učiteliek Marianne Verný.
 
 Babince som aj viedla a zameriavala sa na skúmanie našich ženstva a ženských resp. rodových tém a vytváranie priestoru na vzájomnú podporu pri hľadaní a nadobúdaní vnútornej autority a sily, transformácie, zraniteľnosti a tvorivosti, aj prostredníctvom výtvarných techník. 
 
-Od roku 2003 som spoluviedla rôzne POP semináre a workshopy: úvody do procesovej práce, práca so sebakritikou, kritikou, o smrti, matkách a dcérach, tele,
-telesných symptómoch a snoch atď.
+Od roku 2003 som spoluviedla rôzne POP semináre a workshopy: úvody do procesovej práce, práca so sebakritikou, kritikou, o smrti, matkách a dcérach, tele, telesných symptómoch a snoch atď.
 
 V roku 2017 som na Česko-slovenskej psychoterapeutickej konferencii v Piešťanoch aj na konferencii Vnútorná krajina v Bratislave prezentovala procesovú prácu na workshope o sebakritike spolu s Brigit Trimajovou.
 
-V minulosti som sa venovala aj rôznym malým projektom napr. som spolupracovala s časopisom Mama a ja, so Štúdiom pantomímy pri Divadle a.ha, s Materským
-centrom Úsmev v Piešťanoch.
+V minulosti som sa venovala aj rôznym malým projektom napr. som spolupracovala s časopisom Mama a ja, so Štúdiom pantomímy pri Divadle a.ha, s Materským centrom Úsmev v Piešťanoch.
 
 V súčasnosti sa venujem prepájaniu supervízie procesovej práce s výtvarnou tvorbou na letných Ateliéroch.
 

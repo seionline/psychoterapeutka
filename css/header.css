@@ -20,6 +20,10 @@ header a, header a:hover {
   color: white;
 }
 
+.page {
+  height: 100px;
+}
+
 .title {
   font-size: 3rem;
   padding: 25px;
