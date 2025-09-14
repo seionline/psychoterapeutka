@@ -1,0 +1,149 @@
+@import url('cards.css');
+@import url('navigation.css');
+@import url('header.css');
+
+:root {
+  --primary-light: #4E4463;
+  --primary-color: #F27587;
+  --secondary-color: #1A315A;
+  --text-color: black;
+  --bg-color: #fce3e897;
+  --cards: #F58D91;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: var(--bg-color);
+}
+
+main {
+  padding: 0 3rem;
+  margin: 3rem auto;
+  max-width: 1200px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  margin: 2rem 0 1rem;
+}
+
+h3 {
+  margin: 1rem 0 0.5rem;
+}
+
+p {
+  padding-bottom: 10px;
+}
+
+ul {
+  margin-left: 2rem;
+}
+
+a {
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+.section {
+  flex: auto;
+  padding: 2rem 4rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.intro {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.photo {
+  max-height: 500px;
+  max-width: 100%;
+  float: left;
+  margin: 0 50px 20px 0;
+}
+
+/* Footer */
+footer {
+  background-color: var(--primary-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 35px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+footer a {
+  color: black;
+}
+
+footer a:hover {
+  color: var(--primary-light);
+}
+
+/* Middle screens */
+@media only screen and (max-width: 700px) {
+  .navbar a {
+    font-size: 1rem;
+    padding: 10px;
+  }
+
+  .section, main {
+    padding: 2rem;
+  }
+
+  .header {
+    display: block;
+    height: 300px;
+  }
+
+  .title {
+    margin-top: 0.2rem;
+    font-size: 1.8rem;
+  }
+
+  .tagline {
+    font-size: 1.3rem;
+  }
+}
+
+/* Small screens */
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+
+  .section, main {
+    padding: 1rem;
+  }
+}
