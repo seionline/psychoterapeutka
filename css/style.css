@@ -4,9 +4,8 @@
 
 :root {
   --primary-light: #4E4463;
-  --primary-color: #F27587;
+  --primary-color: #D4032F;
   --secondary-color: #232D66;
-  --text-color: black;
   --bg-color: #da0d4733;
   --cards: #F58D91;
 }
@@ -46,11 +45,11 @@ h1 {
 }
 
 h2 {
-  margin: 2rem 0 1rem;
+  margin: 2.5rem 0 1rem;
 }
 
 h3 {
-  margin: 1rem 0 0.5rem;
+  margin: 2rem 0 0.5rem;
 }
 
 p {

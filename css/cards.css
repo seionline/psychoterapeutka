@@ -5,20 +5,24 @@
   flex-wrap: wrap;
 }
 
-.card, .card:hover {
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 10px;
-  padding: 50px 15px;
+  padding: 20px;
   background-color: var(--bg-color);
   text-align: center;
-  flex: 1 1 200px;
-  max-width: 200px;
-  max-height: 200px;
-  font-size: 1.2rem;
+  flex: 0 0 auto;
+  width: 230px;
+  height: 230px;
+  aspect-ratio: 1 / 1;
+  font-size: 1.8rem;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
   text-decoration: none;
   color: white;
   font-weight: 500;
-  width: 100%;
+  background-size: contain;
 }
 
 .card:hover {
@@ -26,9 +30,20 @@
   transition: transform 0.3s;
 }
 
-.card img {
-  color: var(--primary-color);
-  width: 150px;
+.card p:hover,
+.card:hover p {
+  color: white;
+}
+
+/* Small screens */
+@media only screen and (max-width: 480px) {
+  .card {
+    height: 100px;
+    width: 100%;
+    font-size: 1.2rem;
+    padding: 10px;
+    background-size: cover;
+  }
 }
 
 /* Card background images */
