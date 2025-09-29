@@ -17,8 +17,8 @@ Od roku 2015 som medzinárodne uznanou diplomovanou psychoterapeutkou a facilit
 Po ukončení inžinierskeho štúdia fytotechnického odboru na Agronomickej fakulte, vtedy Vysokej školy poľnohospodárskej v Nitre (1986-1991), som študovala v Bratislave na Katedre psychologických vied Filozofickej fakulty Univerzity Komenského (1991-1996).
 
 ## Absolvované semináre
-- neurolingvistického programovania (Hana Stanek – Vesecká),
-- ericksonovskej nedirektívnej hypnózy (dr. Jiří Zíka),
+- neurolingvistického programovania (Hana Stanek – Vesecká)
+- ericksonovskej nedirektívnej hypnózy (dr. Jiří Zíka)
 - somatic experiencing
 - senzoricko-motorická arteterapia (Cornelia Elbrecht)
 
