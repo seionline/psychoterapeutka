@@ -5,9 +5,9 @@
 :root {
   --primary-light: #4E4463;
   --primary-color: #F27587;
-  --secondary-color: #1A315A;
+  --secondary-color: #232D66;
   --text-color: black;
-  --bg-color: #fce3e897;
+  --bg-color: #da0d4733;
   --cards: #F58D91;
 }
 
@@ -90,17 +90,18 @@ a:hover {
 
 /* Footer */
 footer {
-  background-color: var(--primary-color);
+  background-color: var(--secondary-color);
   display: flex;
   flex-direction: column;
   justify-content: center;
   padding: 35px;
   text-align: center;
   font-size: 1rem;
+  color: white;
 }
 
 footer a {
-  color: black;
+  color: white;
 }
 
 footer a:hover {

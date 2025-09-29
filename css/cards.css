@@ -11,11 +11,14 @@
   background-color: var(--bg-color);
   text-align: center;
   flex: 1 1 200px;
-  max-width: 300px;
+  max-width: 200px;
+  max-height: 200px;
   font-size: 1.2rem;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-  color: var(--text-color);
   text-decoration: none;
+  color: white;
+  font-weight: 500;
+  width: 100%;
 }
 
 .card:hover {
@@ -26,4 +29,29 @@
 .card img {
   color: var(--primary-color);
   width: 150px;
+}
+
+/* Card background images */
+.card-1 {
+  background-image: url('../images/vysek-1.jpeg');
+}
+
+.card-2 {
+  background-image: url('../images/vysek-2.jpeg');
+}
+
+.card-3 {
+  background-image: url('../images/vysek-3.jpeg');
+}
+
+.card-4 {
+  background-image: url('../images/vysek-4.jpeg');
+}
+
+.card-5 {
+  background-image: url('../images/vysek-5.jpeg');
+}
+
+.card-6 {
+  background-image: url('../images/vysek-6.jpeg');
 }
