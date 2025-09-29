@@ -5,14 +5,14 @@
   align-items: center;
   text-align: center;
 }
-
+  
 header a, header a:hover {
   color: black;
   text-decoration: none;
 }
 
 .background {
-  background-image: url('../images/malba_magenta_vysek.jpeg');
+  background-image: url('../images/header-psychoterapeutka.jpeg');
   background-position: top;
   background-repeat: no-repeat;
   height: 500px;
