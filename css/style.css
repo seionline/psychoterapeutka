@@ -3,11 +3,9 @@
 @import url('header.css');
 
 :root {
-  --primary-light: #4E4463;
   --primary-color: #D4032F;
   --secondary-color: #232D66;
   --bg-color: #da0d4733;
-  --cards: #F58D91;
 }
 
 * {
@@ -104,7 +102,7 @@ footer a {
 }
 
 footer a:hover {
-  color: var(--primary-light);
+  color: var(--primary-color);
 }
 
 /* Middle screens */
