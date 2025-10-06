@@ -16,26 +16,26 @@ Od roku 2015 som medzinárodne uznanou diplomovanou psychoterapeutkou a facilit
 
 Po ukončení inžinierskeho štúdia fytotechnického odboru na Agronomickej fakulte, vtedy Vysokej školy poľnohospodárskej v Nitre (1986-1991), som študovala v Bratislave na Katedre psychologických vied Filozofickej fakulty Univerzity Komenského (1991-1996).
 
-## Absolvované semináre
-- neurolingvistického programovania (Hana Stanek – Vesecká)
-- ericksonovskej nedirektívnej hypnózy (dr. Jiří Zíka)
-- somatic experiencing
-- senzoricko-motorická arteterapia (Cornelia Elbrecht)
-
 ## Absolvované výcviky
 - procesorientovanej psychológie (od 1994):
   - V roku 1998 som ukončila dlhodobý česko – slovenský psychoterapeutický výcvik v procesorientovanej psychoterapii (na Slovensku ho viedol medzinárodný tím diplomovaných POP terapeutov: Ivan Verný, Arlène Audergon, Jean – Claude Audergon a Lane Arye).
   - Následne som skúškami zakončila fázu I. medzinárodného štúdia procesovej práce.
-  - V medzinárodnom štúdiu akreditovanom IAPOP som pokračovala pod záštitou RS POP UK Londýn (fáza II.). Formálne štúdium som v marci 2011 zanechala - v záverečnej fáze štúdia som sa rozhodla nepokračovať vo formálnom štúdiu, no rozhodla som sa pokračovať v neformálnej podobe štúdia.
-  - Toto sa v roku 2012 zmenilo a na základe nočného sna som sa opäť vrátila k formálnemu štúdiu, tentokrát na Slovensku v inštitúte POPI-Slovensko a štúdium som zavŕšila skúškami v roku 2015.
-  - Obhájila som tiež záverečnú prácu s názvom „The Birth of the Butterfly“ zaoberajúcu sa ženstvom, vnútornou autoritou, silou a citlivosťou, hanbou, útlakom a transformáciou.
-  - učila som sa aj od Marianne Verný, Uruly Jean, Reiniho Heusera, Leslie Heiser, Barbary Zuest, Thomasa Dienera, Alexandry Vassiliou, Leny Aslanidou, Pat Black a Stáni Študentovej, Lukasa Hohlera, Jan Dworkin, Clare Hill, Conora McKennu, Evelyn Figueroa a Charleen Agostini a samozrejme od Arnolda a Amy Mindellovcov (1994, 2005, 2017).
+  - V medzinárodnom štúdiu akreditovanom Medzinárodnou asociáciou procesorientovanej psychológie IAPOP som pokračovala pod záštitou RS POP UK Londýn (fáza II.) a na Slovensku v inštitúte POPI-Slovensko a štúdium som zavŕšila záverečnými skúškami v roku 2015.
+  - Obhájila som záverečnú prácu s názvom „The Birth of the Butterfly“ zaoberajúcu sa ženstvom, vnútornou autoritou, silou a citlivosťou, hanbou, útlakom a transformáciou.
+  - Učila som sa aj od Marianne Verný, Uruly Jean, Reiniho Heusera, Leslie Heiser, Barbary Zuest, Thomasa Dienera, Alexandry Vassiliou, Leny Aslanidou, Pat Black a Stáni Študentovej, Lukasa Hohlera, Jan Dworkin, Clare Hill, Conora McKennu, Evelyn Figueroa a Charleen Agostini a samozrejme od Arnolda a Amy Mindellovcov (1994, 2005, 2017).
   - V roku 2017 a 2018 som absolvovala tréningy trénerov procesovej práce (POP) pod vedením Jan Dworkin.
   - Neustále spolupracujem so supervízorkami Clare Hill, Marianne Sinner (od 2017) a s Jan Dworkin (od 2023).
 
 - Od roku 1998 som sa vzdelávala v systemickej terapii podľa Berta Hellingera, ktorého prácu priniesol do môjho zorného poľa Ivan Verný. V roku 2009 som
 ukončila nadstavbový česko – slovenský výcvik „Procesová práca v systemických štruktúrach“ pod vedením Ivana Verného, Zlaty Šramovej a Pavla Konečného.
+
 - V roku 2024 som absolvovala akreditovaný vzdelávací program ďalšieho vzdelávania  Supervízia v pomáhajúcich profesiách (Vlado Hambálek).
+
+## Iné vzdelávanie
+- neurolingvistického programovania (Hana Stanek – Vesecká)
+- ericksonovskej nedirektívnej hypnózy (dr. Jiří Zíka)
+- somatic experiencing
+- senzoricko-motorická arteterapia (Cornelia Elbrecht)
 
 ## Pracovala som
 - v Psychiatrickej nemocnici Philipa Pinela v Pezinku na mužskom AT oddelení a na ženskom oddelení,
