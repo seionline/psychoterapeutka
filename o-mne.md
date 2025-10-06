@@ -53,6 +53,7 @@ ukončila nadstavbový česko – slovenský výcvik „Procesová práca v sys
 - kapitoly Psychologické poradenstvo v práci s LGBT menšinami v učebnici Kapitoly z poradenskej psychológie (Smitková a kol., 2014),
 - kapitoly Procesorientovaná psychológia v psychologickom poradenstve a psychoterapii v učebnici Poradenská psychológia a jej využitie v praxi (Smitková a kol., 2024).
 
+<br>
 Okrajovo sa venujem aj prekladateľskej práci, najmä pre potreby inštitútu POPI-Slovensko.
 
 Od roku 2017 som členkou IAPOP. Od roku 2018 som členkou garantského tímu POPI-Slovensko.
