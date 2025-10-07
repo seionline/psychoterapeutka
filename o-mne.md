@@ -22,9 +22,9 @@ Po ukončení inžinierskeho štúdia fytotechnického odboru na Agronomickej fa
   - Následne som skúškami zakončila fázu I. medzinárodného štúdia procesovej práce.
   - V medzinárodnom štúdiu akreditovanom Medzinárodnou asociáciou procesorientovanej psychológie IAPOP som pokračovala pod záštitou RS POP UK Londýn (fáza II.) a na Slovensku v inštitúte POPI-Slovensko a štúdium som zavŕšila záverečnými skúškami v roku 2015.
   - Obhájila som záverečnú prácu s názvom „The Birth of the Butterfly“ zaoberajúcu sa ženstvom, vnútornou autoritou, silou a citlivosťou, hanbou, útlakom a transformáciou.
-  - Učila som sa aj od Marianne Verný, Uruly Jean, Reiniho Heusera, Leslie Heiser, Barbary Zuest, Thomasa Dienera, Alexandry Vassiliou, Leny Aslanidou, Pat Black a Stáni Študentovej, Lukasa Hohlera, Jan Dworkin, Clare Hill, Conora McKennu, Evelyn Figueroa a Charleen Agostini a samozrejme od Arnolda a Amy Mindellovcov (1994, 2005, 2017).
+  - Učila som sa aj od Marianne Verný, Uruly Jean, Reiniho Heusera, Leslie Heiser, Barbary Zuest, Thomasa Dienera, Alexandry Vassiliou, Leny Aslanidou, Pat Black a Stáni Študentovej, Lukasa Hohlera, Jan Dworkin, Clare Hill, Conora McKennu, Evelyn Figueroa a Charleen Agostini, Kate Jobe a samozrejme od Arnolda a Amy Mindellovcov (1994, 2005, 2017).
   - V roku 2017 a 2018 som absolvovala tréningy trénerov procesovej práce (POP) pod vedením Jan Dworkin.
-  - Neustále spolupracujem so supervízorkami Clare Hill, Marianne Sinner (od 2017) a s Jan Dworkin (od 2023).
+  - Neustále svoju prácu supervidujem so supervízorkami Clare Hill, Marianne Sinner (od 2017) a s Jan Dworkin (od 2023).
 
 - Od roku 1998 som sa vzdelávala v systemickej terapii podľa Berta Hellingera, ktorého prácu priniesol do môjho zorného poľa Ivan Verný. V roku 2009 som
 ukončila nadstavbový česko – slovenský výcvik „Procesová práca v systemických štruktúrach“ pod vedením Ivana Verného, Zlaty Šramovej a Pavla Konečného.
@@ -35,6 +35,7 @@ ukončila nadstavbový česko – slovenský výcvik „Procesová práca v sys
 - neurolingvistického programovania (Hana Stanek – Vesecká)
 - ericksonovskej nedirektívnej hypnózy (dr. Jiří Zíka)
 - somatic experiencing
+- hlbinná imaginácia (Eligio Stephen Gallegos)
 - senzoricko-motorická arteterapia (Cornelia Elbrecht)
 
 ## Pracovala som
@@ -50,7 +51,7 @@ ukončila nadstavbový česko – slovenský výcvik „Procesová práca v sys
 
 ## Som spoluautorkou
 - kapitoly o procesorientovanej psychoterapii v učebnice Současné psychoterapie (Vymětal, Roubal a kol., 2011),
-- kapitoly Psychologické poradenstvo v práci s LGBT menšinami v učebnici Kapitoly z poradenskej psychológie (Smitková a kol., 2014),
+- kapitoly Psychologické poradenstvo v práci s LGBTI+ menšinami v učebnici Kapitoly z poradenskej psychológie (Smitková a kol., 2014),
 - kapitoly Procesorientovaná psychológia v psychologickom poradenstve a psychoterapii v učebnici Poradenská psychológia a jej využitie v praxi (Smitková a kol., 2024).
 
 <br>
@@ -60,7 +61,7 @@ Od roku 2017 som členkou IAPOP. Od roku 2018 som členkou garantského tímu PO
 
 V roku 1997 sa začala pre mňa významná história ženských seminárov. Dvadsať rokov som organizovala a zúčastňovala sa na tzv. babincoch pod vedením jednej z mojich významných učiteliek Marianne Verný.
 
-Babince som aj viedla a zameriavala sa na skúmanie našich ženstva a ženských resp. rodových tém a vytváranie priestoru na vzájomnú podporu pri hľadaní a nadobúdaní vnútornej autority a sily, transformácie, zraniteľnosti a tvorivosti, aj prostredníctvom výtvarných techník. 
+Babince som aj viedla a zameriavala sa na skúmanie ženstva a ženských resp. rodových tém a vytváranie priestoru na vzájomnú podporu pri hľadaní a nadobúdaní vnútornej autority a sily, transformácie, zraniteľnosti a tvorivosti, aj prostredníctvom výtvarných techník. 
 
 Od roku 2003 som spoluviedla rôzne POP semináre a workshopy: úvody do procesovej práce, práca so sebakritikou, kritikou, o smrti, matkách a dcérach, tele, telesných symptómoch a snoch atď.
 
