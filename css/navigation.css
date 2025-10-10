@@ -20,34 +20,3 @@
 .navbar a:hover {
   color: var(--secondary-color);
 }
-
-/* Hide hamburger menu */
-.mobile-menu {
-  display: none;
-}
-
-.mobile-menu ul {
-  margin-left: 0;
-} 
-
-@media only screen and (max-width: 480px) {
-  .mobile-menu-button {
-    width: 30px;
-  }
-
-  .mobile-menu {
-    display: flex;
-    position: fixed;
-    margin: 37px 0;
-    background-color: rgba(228, 75, 75, 0.842);
-    z-index: 1;
-  }
-
-  .hidden {
-    display: none;
-  }
-
-  nav ul {
-    list-style: none;
-  }
-}
